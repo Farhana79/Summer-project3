@@ -1,6 +1,9 @@
-// Playlist.cpp
-// Implementation of the Playlist class and SongNode struct for a binary tree playlist implementation.
-
+/**
+ * @file Playlist.hpp
+ * @Farhana Sultana (farhana.sultana79@myhunter.cuny.edu)
+ * @brief This file for the Playlist class
+ *
+ */
 #include "Playlist.hpp"
 #include <functional>
 
