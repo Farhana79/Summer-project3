@@ -1,3 +1,9 @@
+/**
+ * @file Playlist.hpp
+ * @Farhana Sultana (farhana.sultana79@myhunter.cuny.edu)
+ * @brief This file for the Playlist class
+ *
+ */
 #ifndef PLAYLIST_HPP 
 #define PLAYLIST_HPP
 
