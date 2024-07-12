@@ -1,3 +1,9 @@
+/**
+ * @file Main.cpp
+ * @Farhana Sultana (farhana.sultana79@myhunter.cuny.edu)
+ * @brief This file for the Playlist class
+ *
+ */
 #include "Playlist.hpp"
 #include <iostream>
 
